@@ -27,6 +27,7 @@ public class WeaponDemo {
 
         public void setDamage(int damage) {
         	//your code goes here
+            this.damage = damage;
         }
 
         public int getRange() {
@@ -36,6 +37,7 @@ public class WeaponDemo {
 
         public void setRange(int range) {
         	//your code goes here
+            this.range = range;
         }
     }
 
